@@ -6,4 +6,5 @@ Just clone or pull the repository and use the command "python facedetect.py"
   1> python any version but prefered python3
   
   2> opencv
- ## To install opencv you need to use  "python -m pip install opencv-python" command in terminal
+ ## To install opencv 
+ Use  "python -m pip install opencv-python" command in terminal
